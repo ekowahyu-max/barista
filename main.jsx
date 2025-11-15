@@ -1,6 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-// Pastikan Anda mengimpor komponen utama Anda
+// IMPOR FILE CSS BARU DI SINI
+import './index.css'; 
+
 import App from './App.jsx';
 
 // Dapatkan elemen 'root' dari index.html
