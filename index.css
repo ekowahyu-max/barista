@@ -1,0 +1,12 @@
+/* src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Opsional: Terapkan font Inter global */
+@layer base {
+  html {
+    font-family: 'Inter', sans-serif;
+  }
+}
+
